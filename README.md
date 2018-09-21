@@ -9,3 +9,9 @@ com.android.support:recyclerview-v7:27.1.1
 **Layouts**
 
 com.android.support.constraint:constraint-layout:1.1.3
+
+**Android Architecture Components**
+
+android.arch.lifecycle:extensions:1.1.1
+
+
