@@ -1,14 +1,9 @@
 # Android-Dependencies
 Collection of different dependencies for android components and libraries
 
-**v7 appcompat library**
+**Retrofit**
 
-com.android.support:appcompat-v7:27.1.1\
-com.android.support:recyclerview-v7:27.1.1
-
-**Layouts**
-
-com.android.support.constraint:constraint-layout:1.1.3
+com.squareup.retrofit2:retrofit:$2.6.0
 
 **Android Architecture Components**
 
