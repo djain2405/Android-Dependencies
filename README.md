@@ -11,6 +11,11 @@ implementation "com.squareup.retrofit2:converter-moshi:2.6.0"
 implementation "com.squareup.moshi:moshi:1.8.0"  
 implementation "com.squareup.moshi:moshi-kotlin:1.8.0"
 
+**Coroutines**
+
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.1.0"
+implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.1.0"
+
 **Android Architecture Components**
 
 android.arch.lifecycle:extensions:1.1.1
