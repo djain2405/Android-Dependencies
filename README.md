@@ -3,7 +3,7 @@ Collection of different dependencies for android components and libraries
 
 **Retrofit**
 
-com.squareup.retrofit2:retrofit:$2.6.0
+com.squareup.retrofit2:retrofit:2.6.0
 
 **Android Architecture Components**
 
