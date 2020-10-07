@@ -18,7 +18,7 @@ implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.1.0"
 
 **Room Database**
 
-implementation "androidx.room:room-runtime:2.2.5"
+implementation "androidx.room:room-runtime:2.2.5" 
 kapt "androidx.room:room-compiler:2.2.5"
 
 **Android Architecture Components**
