@@ -21,9 +21,9 @@ implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.1.0"
 implementation "androidx.room:room-runtime:2.2.5"  
 kapt "androidx.room:room-compiler:2.2.5"
 
-**Room Database**
-def camerax_version = "1.0.0-beta07"
-// CameraX core library using camera2 implementation   
+**CameraX Database**   
+def camerax_version = "1.0.0-beta07"   
+// CameraX core library using camera2 implementation     
   implementation "androidx.camera:camera-camera2:$camerax_version"    
 // CameraX Lifecycle Library. 
   implementation "androidx.camera:camera-lifecycle:$camerax_version"   
