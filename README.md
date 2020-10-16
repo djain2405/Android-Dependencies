@@ -29,6 +29,11 @@ def camerax_version = "1.0.0-beta07"
   implementation "androidx.camera:camera-lifecycle:$camerax_version"   
 // CameraX View class  
   implementation "androidx.camera:camera-view:1.0.0-alpha14"    
+  
+**Jetpack Navigation**   
+
+  implementation "androidx.navigation:navigation-fragment-ktx:2.3.1"   
+  implementation "androidx.navigation:navigation-ui-ktx:2.3.1"     
 
 **Android Architecture Components**
 
