@@ -33,8 +33,10 @@ def camerax_version = "1.0.0-beta07"
 **Jetpack Navigation**   
 
   implementation "androidx.navigation:navigation-fragment-ktx:2.3.1"   
-  implementation "androidx.navigation:navigation-ui-ktx:2.3.1"     
+  implementation "androidx.navigation:navigation-ui-ktx:2.3.1"  
+  
 **ViewModel and LiveData (arch components)**
+
   implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"  
   implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0" 
 
