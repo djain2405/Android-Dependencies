@@ -4,6 +4,8 @@ Collection of different dependencies for android components and libraries
 **Retrofit**
 
 implementation "com.squareup.retrofit2:retrofit:2.6.0"  
+implementation 'com.squareup.retrofit2:converter-gson:2.6.3'  
+
 implementation "com.squareup.retrofit2:converter-moshi:2.6.0"
 
 **Moshi**
