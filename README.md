@@ -41,5 +41,10 @@ def camerax_version = "1.0.0-beta07"
 
   implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"  
   implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0" 
+  
+**RecyclerView**
+
+  implementation 'androidx.recyclerview:recyclerview:1.0.0'  
+
 
 
