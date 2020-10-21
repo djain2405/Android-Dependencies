@@ -45,6 +45,11 @@ def camerax_version = "1.0.0-beta07"
 **RecyclerView**
 
   implementation 'androidx.recyclerview:recyclerview:1.0.0'  
+  
+**Glide** 
+  implementation 'com.github.bumptech.glide:glide:4.10.0'  
+
+
 
 
 
