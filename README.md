@@ -35,8 +35,12 @@ def camerax_version = "1.0.0-beta07"
 **Jetpack Navigation**   
 
   implementation "androidx.navigation:navigation-fragment-ktx:2.3.1"   
-  implementation "androidx.navigation:navigation-ui-ktx:2.3.1"  
+  implementation "androidx.navigation:navigation-ui-ktx:2.3.1" 
   
+  **SafeArgs**  
+  (Root Level Build Gradle) classpath "androidx.navigation:navigation-safe-args-gradle-plugin:2.3.1"  
+  (App Level Build Gradle) apply plugin: "androidx.navigation.safeargs.kotlin"  
+    
 **ViewModel and LiveData (arch components)**
 
   implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"  
