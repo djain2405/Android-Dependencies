@@ -25,11 +25,8 @@ kapt "androidx.room:room-compiler:2.2.5"
 
 **CameraX Database**   
 def camerax_version = "1.0.0-beta07"   
-// CameraX core library using camera2 implementation     
   implementation "androidx.camera:camera-camera2:$camerax_version"    
-// CameraX Lifecycle Library. 
   implementation "androidx.camera:camera-lifecycle:$camerax_version"   
-// CameraX View class  
   implementation "androidx.camera:camera-view:1.0.0-alpha14"    
   
 **Jetpack Navigation**   
